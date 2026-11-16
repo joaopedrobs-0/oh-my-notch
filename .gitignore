@@ -1,0 +1,9 @@
+# compilado
+Oh My Notch!.app/
+build/
+*.zip
+Vendor/mediaremote-adapter/build/
+# imagens de terceiros (fotos de fones de fabricantes) ficam só na sua máquina
+Devices/
+logo-original.png
+.DS_Store
